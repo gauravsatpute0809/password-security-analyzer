@@ -4,8 +4,8 @@ A Cloud-Deployed Password Security Analysis System built using Flask.
 This system evaluates password strength using entropy calculation, pattern detection, and a custom advanced scoring algorithm, along with an interactive analytics dashboard.
 
  🚀 Live Demo
-
-Deployed on Render Cloud Platform.
+ 
+https://password-security-analyzer-47h3.onrender.com/
 
 📌 Features
 
